@@ -1,0 +1,8 @@
+C:\Users\lars.white\AppData\Local\Temporary Projects\ZuoraExemptionMigration\bin\Debug\ZuoraExemptionMigration.exe
+C:\Users\lars.white\AppData\Local\Temporary Projects\ZuoraExemptionMigration\bin\Debug\ZuoraExemptionMigration.pdb
+C:\Users\lars.white\AppData\Local\Temporary Projects\ZuoraExemptionMigration\obj\x86\Debug\ZuoraExemptionMigration.exe
+C:\Users\lars.white\AppData\Local\Temporary Projects\ZuoraExemptionMigration\obj\x86\Debug\ZuoraExemptionMigration.pdb
+C:\Users\lars.white\Documents\Visual Studio 2010\Projects\ZuoraExemptionMigration\ZuoraExemptionMigration\obj\x86\Debug\ZuoraExemptionMigration.exe
+C:\Users\lars.white\Documents\Visual Studio 2010\Projects\ZuoraExemptionMigration\ZuoraExemptionMigration\obj\x86\Debug\ZuoraExemptionMigration.pdb
+C:\Users\lars.white\Documents\Visual Studio 2010\Projects\ZuoraExemptionMigration\ZuoraExemptionMigration\bin\Debug\ZuoraExemptionMigration.exe
+C:\Users\lars.white\Documents\Visual Studio 2010\Projects\ZuoraExemptionMigration\ZuoraExemptionMigration\bin\Debug\ZuoraExemptionMigration.pdb
